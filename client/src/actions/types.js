@@ -1,0 +1,9 @@
+export const SET_FORM_NAME = 'SET_FORM_NAME';
+export const ADD_QUESTION = 'ADD_QUESTION';
+export const SUBMIT_FORM = 'SUBMIT_FORM';
+export const CLEAR_FORM_NAME = 'CLEAR_FORM_NAME';
+export const CLEAR_QUESTIONS = 'CLEAR_QUESTIONS';
+export const FETCH_FORMS = 'FETCH_FORMS';
+export const FETCH_FORM = 'FETCH_FORM';
+export const SUBMIT_RESPONSE = 'SUBMIT_RESPONSE';
+export const UPDATE_RESPONDED = 'UPDATE_RESPONDED';
