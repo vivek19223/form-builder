@@ -8,7 +8,7 @@
   6. Once both client and server side dependencies are installed. Come back to root of the projet ("cd ..")
   7. To start the application on your localhost, run npm command : "npm run dev"
   8. server is build on json-server and required port for server is localhost:3001
-  9. client is build by "create-react-client" and required port for client is localhost:3000.
+  9. client is build by "create-react-app" and required port for client is localhost:3000.
 
 
 2.Feature Included:
